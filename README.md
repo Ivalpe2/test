@@ -4,6 +4,11 @@ Esto es una prueba
 si xd instala puto
 ## Usage
 Asi se hace
+
+life before death, 
+strength before weakness, 
+journey before destination
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-newfeature`
