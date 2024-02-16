@@ -3,7 +3,7 @@ Esto es una prueba
 ## Installation
 si xd instala puto
 ## Usage
-Asi se hace
+Asi se hace aaaaaaa
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-newfeature`
@@ -15,5 +15,5 @@ El mundo nació hace 1o minutos
 ## Credits
 Dar las gracias a Ivan, que no hace nada que no sea minimamente util.
 ## License
-freeeeeeeeeeeeee  gnyaaaa
+freeeeeeeeeeeeee 
 
