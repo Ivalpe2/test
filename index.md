@@ -29,7 +29,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-col l8 s12">
   <!-- Blog entry -->
   <div class="w3-card-4 w3-margin w3-white">
-    <img src="/w3images/woods.jpg" alt="Nature" style="width:100%">
+    <img src="https://www.fundacionaquae.org/wp-content/uploads/2018/03/arboles-e1569184563522.jpg" alt="Nature" style="width:100%">
     <div class="w3-container">
       <h3><b>TITLE HEADING</b></h3>
       <h5>Title description, <span class="w3-opacity">April 7, 2014</span></h5>
@@ -39,7 +39,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 
   <!-- Blog entry -->
   <div class="w3-card-4 w3-margin w3-white">
-  <img src="[/w3images/bridge.jpg](https://concepto.de/wp-content/uploads/2015/03/paisaje-e1549600034372.jpg)" alt="Norway" style="width:100%">
+  <img src="https://concepto.de/wp-content/uploads/2015/03/paisaje-e1549600034372.jpg" alt="Norway" style="width:100%">
     <div class="w3-container">
       <h3><b>BLOG ENTRY</b></h3>
       <h5>Title description, <span class="w3-opacity">April 2, 2014</span></h5>
