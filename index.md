@@ -39,7 +39,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 
   <!-- Blog entry -->
   <div class="w3-card-4 w3-margin w3-white">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/fOW8Y09GVek?si=PgubR7WJ09LPRkUC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/fOW8Y09GVek?si=PgubR7WJ09LPRkUC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <div class="w3-container">
       <h3><b>BLOG ENTRY</b></h3>
       <h5>Title description, <span class="w3-opacity">April 2, 2014</span></h5>
